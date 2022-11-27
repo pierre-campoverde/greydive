@@ -9,7 +9,7 @@ export type TClient = {
   escenario: string;
   horarioEnvio: {
     seconds: number;
-    nanosecond: number;
+    nanoseconds: number;
   };
   id: string;
   idVideo: string;

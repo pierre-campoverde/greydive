@@ -6,8 +6,6 @@ import TestResults from '../Templates/TestResults';
 const ClientPage = (props: Props) => {
   const {
     cliente,
-    idVideo,
-    link,
     escenario,
     linkVideo,
     plataforma,

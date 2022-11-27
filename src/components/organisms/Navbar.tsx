@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className="flex bg-black py-4 item-center">
       <div className="w-11/12 my-4 flex mx-auto items-center justify-between">
         <Link to="/" className="text-white text-2xl font-title font-bold">
-          Gredive
+          Greydive
           <span className="text-indigo-500">.demo</span>
         </Link>
         <nav>
